@@ -1,4 +1,4 @@
-# CRUDSpringBootRestJPA
+# CRUD Spring Boot Rest JPA
 
 This is an example of my code using Spring Boot, Restful and JPA. It is a CRUD to show my experience.
 
